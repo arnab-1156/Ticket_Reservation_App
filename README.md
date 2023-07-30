@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a Flight Ticket Reservation App based on Flutter and Dart. This allows the user to have a hands- on experience on the UI of any common reservation app in the market.
 
 A few resources to get you started if this is your first Flutter project:
 
